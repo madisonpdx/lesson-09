@@ -14,3 +14,5 @@ Helpful Tools
 -------------
 
 Git is a command line application.  That's how I prefer to use it. If you would rather have a visual application to manage your Git repositories check out [Sourcetree](http://www.sourcetreeapp.com/). It's free for Windows and Mac.
+
+This is some other line of text.
